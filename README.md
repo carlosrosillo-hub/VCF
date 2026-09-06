@@ -1,0 +1,1 @@
+End-to-end deployment of a VCF 9.0.0 Private Cloud environment, including VCF Fleet, Management Domain, VCF Operations, VCF Automation, vCenter, NSX, vSAN, ESXi hosts, network configuration, and SDDC Manager. The project demonstrates the automated deployment and validation of the VCF platform using the VCF Installer.
